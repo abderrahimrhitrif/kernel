@@ -25,10 +25,3 @@ The `kernel` repository contains low-level x86 assembly bootloader scripts and t
 # To run the LLM reasoning notebook:
 jupyter notebook nb/Qwen3_(4B)-GRPO.ipynb
 ```
-
-## CV Bullet Points
-- Implemented reinforcement learning fine-tuning pipelines (GRPO) on Qwen3-4B using Unsloth and Hugging Face TRL to train reasoning models.
-- Developed low-level x86 assembly bootloader programs demonstrating fundamentals of system startup and real-mode execution.
-
-## Claims to Avoid
-- Do not claim enterprise operating system development or large-scale model pre-training.
